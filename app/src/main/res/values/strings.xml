@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMDProject</string>
+    <string name="title_activity_uiscreen">UIScreen</string>
+    <string name="title_activity_history_detail">HistoryDetail</string>
+</resources>
